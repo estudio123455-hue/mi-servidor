@@ -1,0 +1,7 @@
+n8n/data
+npm/data
+npm/letsencrypt
+portainer/data
+.git
+.gitignore
+docker-compose.yml
